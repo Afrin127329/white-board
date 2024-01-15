@@ -8,7 +8,7 @@ const Home = () => {
     <div className="container-fluid ">
       <div className="row">
         <h1 className="display-5 pt-4 pb-3 text-center">
-          White Board - users online:
+          Real time White Board
         </h1>
       </div>
       <div className="row justify-content-center align-items-center text-center py-2">
